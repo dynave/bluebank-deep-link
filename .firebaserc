@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "default": "bluebank-development",
+    "development": "bluebank-development",
+    "staging": "bluebank-development"
+  }
+}
